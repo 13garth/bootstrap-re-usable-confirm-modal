@@ -5,6 +5,12 @@ Just include the markup once, call a tiny helper, and you instantly have a polis
 
 ---
 
+## 🖼 Preview
+
+![Modal preview](./Screenshot%202025-04-20%20at%2022.44.39.png)
+
+---
+
 ## ✨ Features
 
 * **One & done** – add the markup once, reuse infinitely.
@@ -139,12 +145,6 @@ function form_confirm_action(event) {
 | **Body message** | Set in your `confirm_init_modal_*` helper (`$('#confirm-message').text(...)`) |
 | **Cancel button theme** | Override Blade variable `$theme` (e.g. `'secondary'`) |
 | **Confirm action** | Adjust `form_confirm_action` to PUT/DELETE, change reload timing, etc. |
-
----
-
-## 🖼 Preview
-
-![Modal preview](./Screenshot%202025-04-20%20at%2022.44.39.png)
 
 ---
 
