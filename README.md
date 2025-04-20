@@ -34,7 +34,7 @@ A single template bootstrap confirm modal to reduce code.
     // function confirm_init_modal_unique_function_name(id, route) {
     //     $('#form-confirm-modal').modal('show');
     //     $('#confirm-route').val(route);
-    //     $('#confirm-message').text('Are you sure you want to confirm this budget item?');
+    //     $('#confirm-message').text('Are you sure you want to perform this action?');
     // }
 
     function form_confirm_action(event) {
