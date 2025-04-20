@@ -144,11 +144,7 @@ function form_confirm_action(event) {
 
 ## 🖼 Preview
 
-Add a screenshot or GIF here so readers know what to expect.
-
-```
-📷 _modal-preview.png_
-```
+![Modal preview](./Screenshot%202025-04-20%20at%2022.44.39.png)
 
 ---
 
